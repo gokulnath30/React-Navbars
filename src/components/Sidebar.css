@@ -1,0 +1,30 @@
+.sidebar{
+    position:fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background-color: #6F6AF8;
+    width:  80px;
+
+}
+
+.side-nav{
+    position: absolute;
+    text-align: center;
+}
+
+.nav-item{
+    color: #fff;
+    display: block;
+    padding: 10px;
+    font-size:40px;
+}
+
+
+.logo{
+    color: #ffff;
+    padding: 10px;
+    font-weight: 900;
+    font-size:20px;
+    margin-bottom: 30px;
+}
