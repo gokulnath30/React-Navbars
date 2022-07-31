@@ -1,6 +1,13 @@
 
 .header {
     border-bottom: 1px solid #EEE;
-    height: 50px;
-    background-color: rgb(80, 53, 235);
+    height: 30px;
+    background-color: #333333ec;
+    padding-left: 80px;
+    padding-top: 6px;
+    color: #fff;
+}
+
+.options{
+    padding: 8px;
 }
